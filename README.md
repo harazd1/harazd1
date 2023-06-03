@@ -1,13 +1,25 @@
 <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="MasterHead" data-canonical-src="https://indoanalytica.com/static/images/bannerr.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h1 align="center">Hi 👋, I'm Mykola Harazdii</h1>
-<h3 align="center">Backend developer</h3>
+<h3 align="center">Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harazd1&label=Profile%20views&color=0e75b6&style=flat" alt="harazd1" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, NodeJs.**
+Backend development:
+Node.js 
+TypeScript.js 
+Express.js 
+Nest.js
+Database (mongodb, sqlite, postgres, mysql)
 
-- 💬 Ask me about **C#, TypeScript, NodeJs, MySql, Mongo DB, Sqlite.**
+Frontend development:
+Vue.js (basic knowledge)
+React (basic knowledge)
+HTML
+CSS
+
+Other:
+WordPress (Elementor, PHP)
 
 - 📫 How to reach me **mykola.harazdii@gmail.com.**
 

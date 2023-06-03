@@ -5,21 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harazd1&label=Profile%20views&color=0e75b6&style=flat" alt="harazd1" /> </p>
 
-Backend development:
-Node.js 
-TypeScript.js 
-Express.js 
-Nest.js
-Database (mongodb, sqlite, postgres, mysql)
+Backend development: </br>
+Node.js </br>
+TypeScript.js </br>
+Express.js </br>
+Nest.js </br>
+Database (mongodb, sqlite, postgres, mysql)</br>
 
-Frontend development:
-Vue.js (basic knowledge)
-React (basic knowledge)
-HTML
-CSS
+Frontend development: </br>
+Vue.js (basic knowledge) </br>
+React (basic knowledge) </br>
+HTML </br>
+CSS </br>
 
-Other:
-WordPress (Elementor, PHP)
+Other: </br>
+WordPress (Elementor, PHP) </br>
 
 - 📫 How to reach me **mykola.harazdii@gmail.com.**
 
